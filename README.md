@@ -6,7 +6,7 @@
 
 <h3 align="center"> 👀An Artificial Intelligence and Data Science Enthusiast </h3>
 
-I'm a Final Year BTech CS student studying Poornima University, Jaipur, India. I am keenly interested in Machine Learning, Deep Learning, NLP, and Reinforcement Learning. Through my Academic and Industrial experiences, I have gained a strong base of theoretical and practical concepts across various areas of Computer Science. As an innovative, creative thinker, I always look forward to collaborating on new projects or working with new technologies to grow my expertise.
+BTech Graduate with Specialization in Data Science. I am keenly interested in Machine Learning, Deep Learning, NLP, and Reinforcement Learning. Throughout my Academic and Industrial experiences, I have gained a strong base of theoretical and practical concepts across various areas of Computer Science. As an innovative, creative thinker, I always look forward to collaborating on new projects or working with new technologies to grow my expertise.
 
 * ✉️  You can contact me at [akchoudhary62658@gmail.com](mailto:akchoudhary62658@gmail.com)
 * 🧠  I'm learning Deep Learning
